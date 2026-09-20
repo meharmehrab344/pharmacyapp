@@ -1,6 +1,7 @@
 {
   "name": "Pharmacy App",
   "short_name": "Pharmacy",
+  "description": "A complete pharmacy management and medical app",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -9,7 +10,8 @@
     {
       "src": "https://via.placeholder.com/512",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
